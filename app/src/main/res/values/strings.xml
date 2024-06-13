@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AuthenticationExerciseSQLite</string>
+    <string name="welcome">Welcome</string>
+    <string name="desc">Login or Signup to Continue</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="desc2">Provide your email and password to login</string>
+    <string name="username">Enter your username</string>
+    <string name="password">Enter your password</string>
+    <string name="email">Enter your Email</string>
+    <string name="gotohome">Go to Home</string>
+    <string name="gotoregister">Go to Register</string>
+    <string name="gotologin">Go to Login</string>
+    <string name="desc3">Create an account to login the app</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+
+
+    <string name="user_options"> </string>
+    <array name="users_options">
+        <item>User Type</item>
+        <item>Admin</item>
+        <item>Guest</item>
+
+    </array>
+
+
+</resources>
